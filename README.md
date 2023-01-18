@@ -23,10 +23,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ch1ranjeevs1ngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ch1ranjeevs1ngh" height="30" width="40" /></a>
 <a href="https://instagram.com/singh_c21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_c21" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cheenu_0121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cheenu_0121" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chiranjeev210121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chiranjeev210121" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/chiranjeev_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chiranjeev_21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ch33nu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ch33nu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
