@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiranjeev-21" alt="chiranjeev-21" /></a> </p>
 
-- 🔭 I’m currently working on **NLP based project involving RESTFUL Api's and similiarity checks**
+- 🔭 I’m currently working on **NLP projects involving RESTFUL Api's and similiarity checks**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
