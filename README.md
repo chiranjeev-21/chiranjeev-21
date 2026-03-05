@@ -1,17 +1,19 @@
 <h1 align="center">Hey there, I'm Chiranjeev</h1>
-<h3 align="center">A Machine Learning and AI Enthusiast</h3>
+<h3 align="center">A Software Developer and AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjeev-21&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjeev-21" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chiranjeev-21&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjeev-21" />
+</div>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiranjeev-21" alt="chiranjeev-21" /></a> </p> -->
 
-- 🔭 I’m currently working on **NLP projects involving RESTFUL Api's and similiarity checks**
+- 🔭 Building AI-powered systems and scalable backend infrastructure
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🤖 Exploring LLMs, RAG pipelines, and agentic workflows
 
-- 👯 I’m looking to collaborate on **ML/DL based projects**
+- 🧠 Interested in AI engineering, system design, and intelligent automation
 
-- 🤝 I’m looking for help with **Model Deployment using Flask**
+- 👯 Open to collaborating on AI infra, developer tools, and performance optimization
 
 - 💬 Ask me about **anything, Will be happy to lend a helping hand**
 
@@ -127,6 +129,8 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeev-21&" alt="chiranjeev-21" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeev-21" alt="GitHub streak stats" />
+</div>
 
 ![snake gif](https://github.com/chiranjeev-21/chiranjeev-21/blob/output/github-snake-dark.svg)
