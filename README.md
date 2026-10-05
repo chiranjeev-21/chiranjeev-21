@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything, Will be happy to lend a helping hand**
 
-- 📫 How to reach me **chiranjeev21012003@gmail.com**
+- 📫 How to reach me **chiranj33v.singh@gmail.com**
 
 - ⚡ Fun fact **The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.**
 
